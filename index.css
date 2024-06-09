@@ -1,0 +1,25 @@
+body{
+    background-color: green;
+    text-align: center;
+}
+h1{
+    color: gold;
+    font-size: 2rem;
+}
+
+p{
+    color: aliceblue;
+    font-size: 2rem;
+}
+
+button{
+    background-color: gold;
+    width: 300px;
+    color: green;
+    padding: 20px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px 50px;
+    border: none;
+    border-radius: 5px;
+}
